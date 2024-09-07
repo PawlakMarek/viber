@@ -1,6 +1,37 @@
+# Environment files
 .env
+
+# Virtual environments
 venv/
+.env/
+env/
+.venv/
+
+# Bytecode files
+__pycache__/
+*.py[cod]
+
+# Logs
+*.log
+
+# macOS system files
 .DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Visual Studio Code files
 .vscode/
+
+# Build and distribution directories
 build/
 *.egg-info/
+
+# Temporary files
+*~
+*.bak
