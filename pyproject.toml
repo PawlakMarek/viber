@@ -1,7 +1,7 @@
 [project]
 name = "viber"
 version = "0.1.0"
-description = "Add your description here"
+description = "Viber is a bot that integrates with Discord to provide various functionalities such as generating playlists based on mood."
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
